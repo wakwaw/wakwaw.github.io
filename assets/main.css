@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans%7CRoboto+Condensed:700%7CSlabo+27px');
 
-.site-title { font-family: "Roboto Condensed", sans-serif; font-size: 24px;text-transform: uppercase; color: #333;}
-.site-title span { color:#ccc;}
-h1,h2,h3,h4,h5,h6 { font-family: "Slabo 27px", serif;}
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -11,6 +8,10 @@ body { font: 400 16px/1.5 "Nunito Sans", "Helvetica Neue", Arial, sans-serif; co
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+.site-title { font-family: "Roboto Condensed", sans-serif; font-size: 24px;text-transform: uppercase; color: #333;}
+.site-title span { color:#ccc;}
+h1,h2,h3,h4,h5,h6 { font-family: "Slabo 27px", serif;}
 
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
